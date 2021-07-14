@@ -1,1 +1,5 @@
 # Development-of-Gas-leak-detection-system
+This project aims at protecting and avoiding gas leak. This project consists of ZIGBEE transmitter section and ZIGBEE receiver section. In ZIGBEE transmitter section it consists of sensor unit, display unit and controller unit. 
+The sensor detects the gas leak and sends the information to the receiver controller unit PC and it display on PC where the gas leak. In ZIGBEE transmitter section it consists of Alarm unit, controller unit, and display unit. 
+If the sensor in the transmitter section sends the information to the controller and it immediately display where the gas leak and alarm will be on that particular unit .This device will protect the person using the kitchen from indulging a fire accident as well as it do safety measure on gas leak automatically and safely. 
+This project uses regulated 5V, 750mA power supply. 7805 three terminal voltage regulator is used for voltage regulation. Bridge type full wave rectifier is used to rectify the ac output of secondary of 230/18V step down transformer. 
